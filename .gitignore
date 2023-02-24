@@ -160,6 +160,11 @@ cython_debug/
 #.idea/
 
 Dataset/
+__MACOSX/
 *.jpg
 *.png
 *.zip
+*.rar
+*.bmp
+
+._.DS_Store
